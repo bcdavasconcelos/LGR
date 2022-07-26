@@ -13,6 +13,7 @@
   font-weight:500
 }
 
+
 /*
 .md-typeset {
   font-size: .85rem;
@@ -33,6 +34,7 @@ p a:hover {
 }
  */
 
+/*
 .md-typeset .admonition.inboundlinks,
 .md-typeset details.inboundlinks {
   border-color: var(--md-default-bg-color)!important;
@@ -125,3 +127,4 @@ body {
         margin-top: 1rem;
     }
 }
+ */
